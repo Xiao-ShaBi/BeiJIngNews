@@ -7,23 +7,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d98fb9d-ecd5-41ab-b8cf-2ed4b8e0b5f8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/butterknife_8_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/butterknife_annotations_8_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/wzf/beijingnews/activities/MainActivity.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/wzf/beijingnews/MainActivity.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_25_0_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_25_0_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/rules_0_5.xml" afterPath="$PROJECT_DIR$/.idea/libraries/rules_0_5.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/runner_0_5.xml" afterPath="$PROJECT_DIR$/.idea/libraries/runner_0_5.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_compat_25_0_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_compat_25_0_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_core_ui_25_0_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_core_ui_25_0_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_core_utils_25_0_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_core_utils_25_0_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_fragment_25_0_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_fragment_25_0_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_media_compat_25_0_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_media_compat_25_0_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/button_red_normal.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/button_red_pressed.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/guide_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/guide_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/guide_3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/splash_bg_newyear.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/splash_sheep_newyear.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/wzf/beijingnews/activities/GuideActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/wzf/beijingnews/activities/WelcomeActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/wzf/beijingnews/base/BaseFragment.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/wzf/beijingnews/utils/CacheUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/wzf/beijingnews/utils/DensityUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/wzf/beijingnews/utils/VersionUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/btn_start_main_textcolor_selector.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/guide_gree_point.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/guide_in_selector.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/guide_red_point.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layouts/activities/layout/activity_guide.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layouts/activities/layout/activity_welcome.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layouts/activities/values/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/android_android_25.xml" afterPath="$PROJECT_DIR$/.idea/libraries/android_android_25.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build.gradle" afterPath="$PROJECT_DIR$/app/build.gradle" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layouts/activities/layout/activity_main.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layouts/activities/layout/activity_main.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layouts/activities/layout/activity_main.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/values-w820dp/dimens.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layouts/activities/values-w820dp/dimens.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layouts/activities/values/dimens.xml" />
     </list>
     <ignored path="BeiJIngNews.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -47,7 +57,9 @@
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
-        <projects_view />
+        <projects_view>
+          <tree_state />
+        </projects_view>
       </state>
     </system>
   </component>
@@ -55,12 +67,68 @@
     <favorites_list name="BeiJIngNews" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="activity_main.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layouts/activities/layout/activity_main.xml">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="GuideActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/wzf/beijingnews/activities/GuideActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+            <state relative-caret-position="340">
+              <caret line="107" column="21" selection-start-line="107" selection-start-column="21" selection-end-line="107" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="class#MyPagerAdapter#0;class#GuideActivity#0" expanded="false" />
+                <element signature="method#onClick#0;class#GuideActivity#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="View.java" pinned="false" current-in-tab="false">
+        <entry file="file://D:/AndroidStudio/SDK/sources/android-20/android/view/View.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="185">
+              <caret line="15942" column="18" selection-start-line="15942" selection-start-column="18" selection-end-line="15942" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ViewTreeObserver.java" pinned="false" current-in-tab="false">
+        <entry file="file://D:/AndroidStudio/SDK/sources/android-20/android/view/ViewTreeObserver.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="503" column="17" selection-start-line="503" selection-start-column="17" selection-end-line="503" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WelcomeActivity.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/wzf/beijingnews/activities/WelcomeActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="298">
+              <caret line="57" column="17" selection-start-line="57" selection-start-column="17" selection-end-line="57" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="guide_gree_point.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/guide_gree_point.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="activity_guide.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layouts/activities/layout/activity_guide.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="23" column="33" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -69,54 +137,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/wzf/beijingnews/activities/MainActivity.java">
+      <file leaf-file-name="guide_red_point.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/guide_red_point.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="359">
-              <caret line="26" column="55" selection-start-line="26" selection-start-column="50" selection-end-line="26" selection-end-column="55" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
-              <folding>
-                <element signature="e#261#279#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-          <provider editor-type-id="android-manifest">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="styles.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="6" column="68" selection-start-line="6" selection-start-column="68" selection-end-line="6" selection-end-column="68" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="8" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="ASClass" />
+        <option value="resourceFile" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -1798,12 +1837,25 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/wzf/beijingnews/MainActivity.java" />
         <option value="$PROJECT_DIR$/app/build.gradle" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/wzf/beijingnews/activities/MainActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/wzf/beijingnews/base/BaseFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layouts/activities/layout/activity_main.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layouts/activities/layout/activity_welcome.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/guide_in_selector.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/btn_start_main_textcolor_selector.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/wzf/beijingnews/utils/VersionUtils.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/wzf/beijingnews/utils/CacheUtils.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/guide_red_point.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/wzf/beijingnews/utils/DensityUtil.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/guide_gree_point.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layouts/activities/layout/activity_guide.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/wzf/beijingnews/activities/GuideActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/wzf/beijingnews/activities/WelcomeActivity.java" />
       </list>
     </option>
   </component>
@@ -1963,11 +2015,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="layouts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
+              <option name="myItemId" value="drawable-hdpi" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1997,11 +2045,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="layouts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fragments" />
+              <option name="myItemId" value="drawable" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -2027,19 +2071,15 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
+              <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="layouts" />
+              <option name="myItemId" value="beijingnews" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="activities" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="layout" />
+              <option name="myItemId" value="utils" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -2109,23 +2149,31 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="AndroidView">
         <subPane />
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="android.sdk.path" value="D:/AndroidStudio/sdk" />
     <property name="device.picker.selection" value="Nexus_S_API_23" />
     <property name="UI_DESIGNER_EDITOR_MODE.NlPaletteManager-NlPreviewForm.SHOW" value="false" />
+    <property name="last_opened_file_path" value="D:/AndroidStudio/SDK/sources/android-20" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\AndroidWorkSpace\BeiJIngNews\app\src\main\res\layouts\activities\layout" />
+    </key>
+    <key name="android.template.packageName">
+      <recent name="com.wzf.beijingnews.activities" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\AndroidWorkSpace\BeiJIngNews\app\src\main\java\com\wzf\beijingnews\utils" />
+      <recent name="D:\AndroidWorkSpace\BeiJIngNews\app\src\main\res\drawable-hdpi" />
     </key>
   </component>
   <component name="RunManager" selected="Android App.app">
@@ -2433,51 +2481,127 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42832765" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25113463" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.82081914" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.73549485" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.73549485" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935154" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30181542" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935154" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42832765" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25113463" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.82081914" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.73549485" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30181542" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935154" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layouts/activities/layout/activity_main.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/wzf/beijingnews/activities/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layouts/activities/layout/activity_welcome.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/wzf/beijingnews/activities/WelcomeActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="12" column="43" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layouts/activities/layout/activity_main.xml">
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -2493,7 +2617,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1247">
           <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2507,29 +2630,39 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="68" selection-start-line="6" selection-start-column="68" selection-end-line="6" selection-end-column="68" />
+        <state relative-caret-position="22">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/wzf/beijingnews/base/BaseFragment.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
-          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
-          <folding>
-            <element signature="e#261#279#0" expanded="true" />
-          </folding>
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
         </state>
       </provider>
-      <provider editor-type-id="android-manifest">
-        <state />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/wzf/beijingnews/activities/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/activity_welcome.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layouts/activities/layout/activity_main.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+        <state relative-caret-position="242">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -2539,16 +2672,388 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
+        <state relative-caret-position="29">
           <caret line="26" column="55" selection-start-line="26" selection-start-column="50" selection-end-line="26" selection-end-column="55" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/wzf/beijingnews/activities/MainActivity.java">
+    <entry file="jar://D:/AndroidStudio/SDK/platforms/android-25/android.jar!/android/view/animation/AnimationSet.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+        <state relative-caret-position="185">
+          <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+          <folding>
+            <element signature="e#528#529#0" expanded="true" />
+            <element signature="e#579#580#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/AndroidStudio/SDK/sources/android-20/android/view/animation/AnimationSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="117" column="71" selection-start-line="117" selection-start-column="71" selection-end-line="117" selection-end-column="71" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layouts/activities/layout/activity_welcome.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/guide_in_selector.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/btn_start_main_textcolor_selector.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="65" selection-start-line="3" selection-start-column="65" selection-end-line="3" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/AndroidStudio/SDK/platforms/android-25/android.jar!/android/view/View.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="269" column="41" selection-start-line="269" selection-start-column="16" selection-end-line="269" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/AndroidStudio/SDK/extras/android/m2repository/com/android/support/support-core-ui/25.0.1/support-core-ui-25.0.1-sources.jar!/android/support/v4/view/ViewPager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="724" column="60" selection-start-line="724" selection-start-column="40" selection-end-line="724" selection-end-column="60" />
+          <folding>
+            <element signature="docComment;class#ViewPager#0" expanded="false" />
+            <element signature="docComment;field#mExpectedAdapterCount#0;class#ViewPager#0" expanded="false" />
+            <element signature="class#ItemInfo#0;class#ViewPager#0" expanded="false" />
+            <element signature="docComment;field#mLastMotionX#0;class#ViewPager#0" expanded="false" />
+            <element signature="docComment;field#mActivePointerId#0;class#ViewPager#0" expanded="false" />
+            <element signature="docComment;field#INVALID_POINTER#0;class#ViewPager#0" expanded="false" />
+            <element signature="docComment;field#mVelocityTracker#0;class#ViewPager#0" expanded="false" />
+            <element signature="docComment;field#SCROLL_STATE_IDLE#0;class#ViewPager#0" expanded="false" />
+            <element signature="docComment;field#SCROLL_STATE_DRAGGING#0;class#ViewPager#0" expanded="false" />
+            <element signature="docComment;field#SCROLL_STATE_SETTLING#0;class#ViewPager#0" expanded="false" />
+            <element signature="docComment;class#OnPageChangeListener#0;class#ViewPager#0" expanded="false" />
+            <element signature="class#OnPageChangeListener#0;class#ViewPager#0" expanded="false" />
+            <element signature="docComment;method#onPageScrolled#0;class#OnPageChangeListener#0;class#ViewPager#0" expanded="false" />
+            <element signature="docComment;method#onPageSelected#0;class#OnPageChangeListener#0;class#ViewPager#0" expanded="false" />
+            <element signature="docComment;method#onPageScrollStateChanged#0;class#OnPageChangeListener#0;class#ViewPager#0" expanded="false" />
+            <element signature="docComment;class#SimpleOnPageChangeListener#0;class#ViewPager#0" expanded="false" />
+            <element signature="class#SimpleOnPageChangeListener#0;class#ViewPager#0" expanded="false" />
+            <element signature="method#onPageScrolled#0;class#SimpleOnPageChangeListener#0;class#ViewPager#0" expanded="false" />
+            <element signature="method#onPageSelected#0;class#SimpleOnPageChangeListener#0;class#ViewPager#0" expanded="false" />
+            <element signature="method#onPageScrollStateChanged#0;class#SimpleOnPageChangeListener#0;class#ViewPager#0" expanded="false" />
+            <element signature="docComment;class#PageTransformer#0;class#ViewPager#0" expanded="false" />
+            <element signature="class#PageTransformer#0;class#ViewPager#0" expanded="false" />
+            <element signature="docComment;method#transformPage#0;class#PageTransformer#0;class#ViewPager#0" expanded="false" />
+            <element signature="docComment;class#OnAdapterChangeListener#0;class#ViewPager#0" expanded="false" />
+            <element signature="class#OnAdapterChangeListener#0;class#ViewPager#0" expanded="false" />
+            <element signature="docComment;method#onAdapterChanged#0;class#OnAdapterChangeListener#0;class#ViewPager#0" expanded="false" />
+            <element signature="docComment;class#DecorView#0;class#ViewPager#0" expanded="false" />
+            <element signature="e#14437#14472#0" expanded="false" />
+            <element signature="class#DecorView#0;class#ViewPager#0" expanded="false" />
+            <element signature="method#ViewPager#0;class#ViewPager#0" expanded="false" />
+            <element signature="method#ViewPager#1;class#ViewPager#0" expanded="false" />
+            <element signature="method#initViewPager#0;class#ViewPager#0" expanded="false" />
+            <element signature="class#16105:19074" expanded="false" />
+            <element signature="method#onApplyWindowInsets#0;class#16105:19074" expanded="false" />
+            <element signature="e#16857#16931#0" expanded="false" />
+            <element signature="e#18126#18192#0" expanded="false" />
+            <element signature="method#onDetachedFromWindow#0;class#ViewPager#0" expanded="false" />
+            <element signature="method#setScrollState#0;class#ViewPager#0" expanded="false" />
+            <element signature="docComment;method#setAdapter#0;class#ViewPager#0" expanded="false" />
+            <element signature="method#removeNonDecorViews#0;class#ViewPager#0" expanded="false" />
+            <element signature="docComment;method#getAdapter#0;class#ViewPager#0" expanded="false" />
+            <element signature="docComment;method#addOnAdapterChangeListener#0;class#ViewPager#0" expanded="false" />
+            <element signature="method#addOnAdapterChangeListener#0;class#ViewPager#0" expanded="false" />
+            <element signature="docComment;method#removeOnAdapterChangeListener#0;class#ViewPager#0" expanded="false" />
+            <element signature="method#removeOnAdapterChangeListener#0;class#ViewPager#0" expanded="false" />
+            <element signature="method#getClientWidth#0;class#ViewPager#0" expanded="false" />
+            <element signature="docComment;method#setCurrentItem#0;class#ViewPager#0" expanded="false" />
+            <element signature="method#setCurrentItem#0;class#ViewPager#0" expanded="false" />
+            <element signature="docComment;method#setCurrentItem#1;class#ViewPager#0" expanded="false" />
+            <element signature="method#setCurrentItem#1;class#ViewPager#0" expanded="false" />
+            <element signature="method#setCurrentItemInternal#0;class#ViewPager#0" expanded="false" />
+            <element signature="method#setCurrentItemInternal#1;class#ViewPager#0" expanded="false" />
+            <element signature="e#24899#24954#0" expanded="false" />
+            <element signature="e#25290#25371#0" expanded="false" />
+            <element signature="method#scrollToItem#0;class#ViewPager#0" expanded="false" />
+            <element signature="docComment;method#setOnPageChangeListener#0;class#ViewPager#0" expanded="false" />
+            <element signature="method#setOnPageChangeListener#0;class#ViewPager#0" expanded="false" />
+            <element signature="docComment;method#addOnPageChangeListener#0;class#ViewPager#0" expanded="false" />
+            <element signature="docComment;method#removeOnPageChangeListener#0;class#ViewPager#0" expanded="false" />
+            <element signature="method#removeOnPageChangeListener#0;class#ViewPager#0" expanded="false" />
+            <element signature="docComment;method#clearOnPageChangeListeners#0;class#ViewPager#0" expanded="false" />
+            <element signature="method#clearOnPageChangeListeners#0;class#ViewPager#0" expanded="false" />
+            <element signature="docComment;method#setPageTransformer#0;class#ViewPager#0" expanded="false" />
+            <element signature="method#setPageTransformer#0;class#ViewPager#0" expanded="false" />
+            <element signature="docComment;method#setPageTransformer#1;class#ViewPager#0" expanded="false" />
+            <element signature="method#setPageTransformer#1;class#ViewPager#0" expanded="false" />
+            <element signature="method#setChildrenDrawingOrderEnabledCompat#0;class#ViewPager#0" expanded="false" />
+            <element signature="method#getChildDrawingOrder#0;class#ViewPager#0" expanded="false" />
+            <element signature="docComment;method#setInternalPageChangeListener#0;class#ViewPager#0" expanded="false" />
+            <element signature="method#setInternalPageChangeListener#0;class#ViewPager#0" expanded="false" />
+            <element signature="docComment;method#getOffscreenPageLimit#0;class#ViewPager#0" expanded="false" />
+            <element signature="docComment;method#setOffscreenPageLimit#0;class#ViewPager#0" expanded="false" />
+            <element signature="method#setOffscreenPageLimit#0;class#ViewPager#0" expanded="false" />
+            <element signature="docComment;method#setPageMargin#0;class#ViewPager#0" expanded="false" />
+            <element signature="method#setPageMargin#0;class#ViewPager#0" expanded="false" />
+            <element signature="docComment;method#getPageMargin#0;class#ViewPager#0" expanded="false" />
+            <element signature="docComment;method#setPageMarginDrawable#0;class#ViewPager#0" expanded="false" />
+            <element signature="method#setPageMarginDrawable#0;class#ViewPager#0" expanded="false" />
+            <element signature="docComment;method#setPageMarginDrawable#1;class#ViewPager#0" expanded="false" />
+            <element signature="method#setPageMarginDrawable#1;class#ViewPager#0" expanded="false" />
+            <element signature="method#verifyDrawable#0;class#ViewPager#0" expanded="false" />
+            <element signature="method#drawableStateChanged#0;class#ViewPager#0" expanded="false" />
+            <element signature="method#distanceInfluenceForSnapDuration#0;class#ViewPager#0" expanded="false" />
+            <element signature="docComment;method#smoothScrollTo#0;class#ViewPager#0" expanded="false" />
+            <element signature="docComment;method#smoothScrollTo#1;class#ViewPager#0" expanded="false" />
+            <element signature="method#smoothScrollTo#1;class#ViewPager#0" expanded="false" />
+            <element signature="e#38263#38335#0" expanded="false" />
+            <element signature="e#39981#40057#0" expanded="false" />
+            <element signature="method#addNewItem#0;class#ViewPager#0" expanded="false" />
+            <element signature="method#dataSetChanged#0;class#ViewPager#0" expanded="false" />
+            <element signature="method#populate#1;class#ViewPager#0" expanded="false" />
+            <element signature="e#43388#43451#0" expanded="false" />
+            <element signature="e#43862#43932#0" expanded="false" />
+            <element signature="e#45651#45714#0" expanded="false" />
+            <element signature="e#49694#49761#0" expanded="false" />
+            <element signature="method#sortChildDrawingOrder#0;class#ViewPager#0" expanded="false" />
+            <element signature="method#calculatePageOffsets#0;class#ViewPager#0" expanded="false" />
+            <element signature="e#52820#52864#0" expanded="false" />
+            <element signature="e#53792#53836#0" expanded="false" />
+            <element signature="docComment;class#SavedState#0;class#ViewPager#0" expanded="false" />
+            <element signature="class#SavedState#0;class#ViewPager#0" expanded="false" />
+            <element signature="method#writeToParcel#0;class#SavedState#0;class#ViewPager#0" expanded="false" />
+            <element signature="method#toString#0;class#SavedState#0;class#ViewPager#0" expanded="false" />
+            <element signature="class#56656:57087" expanded="false" />
+            <element signature="method#createFromParcel#0;class#56656:57087" expanded="false" />
+            <element signature="method#SavedState#1;class#SavedState#0;class#ViewPager#0" expanded="false" />
+            <element signature="method#onSaveInstanceState#0;class#ViewPager#0" expanded="false" />
+            <element signature="method#onRestoreInstanceState#0;class#ViewPager#0" expanded="false" />
+            <element signature="method#addView#0;class#ViewPager#0" expanded="false" />
+            <element signature="method#isDecorView#0;class#ViewPager#0" expanded="false" />
+            <element signature="method#removeView#0;class#ViewPager#0" expanded="false" />
+            <element signature="method#infoForChild#0;class#ViewPager#0" expanded="false" />
+            <element signature="method#infoForAnyChild#0;class#ViewPager#0" expanded="false" />
+            <element signature="method#infoForPosition#0;class#ViewPager#0" expanded="false" />
+            <element signature="method#onAttachedToWindow#0;class#ViewPager#0" expanded="false" />
+            <element signature="method#onMeasure#0;class#ViewPager#0" expanded="false" />
+            <element signature="e#60777#60837#0" expanded="false" />
+            <element signature="method#onSizeChanged#0;class#ViewPager#0" expanded="false" />
+            <element signature="method#recomputeScrollPosition#0;class#ViewPager#0" expanded="false" />
+            <element signature="method#onLayout#0;class#ViewPager#0" expanded="false" />
+            <element signature="e#67223#67292#0" expanded="false" />
+            <element signature="e#70545#70599#0" expanded="false" />
+            <element signature="method#computeScroll#0;class#ViewPager#0" expanded="false" />
+            <element signature="method#pageScrolled#0;class#ViewPager#0" expanded="false" />
+            <element signature="e#72917#72997#0" expanded="false" />
+            <element signature="docComment;method#onPageScrolled#0;class#ViewPager#0" expanded="false" />
+            <element signature="method#onPageScrolled#0;class#ViewPager#0" expanded="false" />
+            <element signature="method#dispatchOnPageScrolled#0;class#ViewPager#0" expanded="false" />
+            <element signature="method#dispatchOnPageSelected#0;class#ViewPager#0" expanded="false" />
+            <element signature="method#dispatchOnScrollStateChanged#0;class#ViewPager#0" expanded="false" />
+            <element signature="method#completeScroll#0;class#ViewPager#0" expanded="false" />
+            <element signature="method#isGutterDrag#0;class#ViewPager#0" expanded="false" />
+            <element signature="method#enableLayers#0;class#ViewPager#0" expanded="false" />
+            <element signature="method#onInterceptTouchEvent#0;class#ViewPager#0" expanded="false" />
+            <element signature="e#81851#81914#0" expanded="false" />
+            <element signature="e#84457#84503#0" expanded="false" />
+            <element signature="method#onTouchEvent#0;class#ViewPager#0" expanded="false" />
+            <element signature="e#87145#87204#0" expanded="false" />
+            <element signature="e#87457#87539#0" expanded="false" />
+            <element signature="e#88724#88797#0" expanded="false" />
+            <element signature="method#resetTouch#0;class#ViewPager#0" expanded="false" />
+            <element signature="method#requestParentDisallowInterceptTouchEvent#0;class#ViewPager#0" expanded="false" />
+            <element signature="method#performDrag#0;class#ViewPager#0" expanded="false" />
+            <element signature="docComment;method#infoForCurrentScrollPosition#0;class#ViewPager#0" expanded="false" />
+            <element signature="method#infoForCurrentScrollPosition#0;class#ViewPager#0" expanded="false" />
+            <element signature="method#determineTargetPage#0;class#ViewPager#0" expanded="false" />
+            <element signature="method#draw#0;class#ViewPager#0" expanded="false" />
+            <element signature="method#onDraw#0;class#ViewPager#0" expanded="false" />
+            <element signature="docComment;method#beginFakeDrag#0;class#ViewPager#0" expanded="false" />
+            <element signature="method#beginFakeDrag#0;class#ViewPager#0" expanded="false" />
+            <element signature="docComment;method#endFakeDrag#0;class#ViewPager#0" expanded="false" />
+            <element signature="method#endFakeDrag#0;class#ViewPager#0" expanded="false" />
+            <element signature="docComment;method#fakeDragBy#0;class#ViewPager#0" expanded="false" />
+            <element signature="method#fakeDragBy#0;class#ViewPager#0" expanded="false" />
+            <element signature="docComment;method#isFakeDragging#0;class#ViewPager#0" expanded="false" />
+            <element signature="method#onSecondaryPointerUp#0;class#ViewPager#0" expanded="false" />
+            <element signature="e#106010#106063#0" expanded="false" />
+            <element signature="method#endDrag#0;class#ViewPager#0" expanded="false" />
+            <element signature="method#setScrollingCacheEnabled#0;class#ViewPager#0" expanded="false" />
+            <element signature="docComment;method#canScrollHorizontally#0;class#ViewPager#0" expanded="false" />
+            <element signature="method#canScrollHorizontally#0;class#ViewPager#0" expanded="false" />
+            <element signature="docComment;method#canScroll#0;class#ViewPager#0" expanded="false" />
+            <element signature="method#canScroll#0;class#ViewPager#0" expanded="false" />
+            <element signature="e#108989#109047#0" expanded="false" />
+            <element signature="method#dispatchKeyEvent#0;class#ViewPager#0" expanded="false" />
+            <element signature="docComment;method#executeKeyEvent#0;class#ViewPager#0" expanded="false" />
+            <element signature="method#executeKeyEvent#0;class#ViewPager#0" expanded="false" />
+            <element signature="e#110767#110838#0" expanded="false" />
+            <element signature="docComment;method#arrowScroll#0;class#ViewPager#0" expanded="false" />
+            <element signature="method#arrowScroll#0;class#ViewPager#0" expanded="false" />
+            <element signature="e#113206#113266#0" expanded="false" />
+            <element signature="e#113834#113895#0" expanded="false" />
+            <element signature="method#getChildRectInPagerCoordinates#0;class#ViewPager#0" expanded="false" />
+            <element signature="method#pageLeft#0;class#ViewPager#0" expanded="false" />
+            <element signature="method#pageRight#0;class#ViewPager#0" expanded="false" />
+            <element signature="docComment;method#addFocusables#0;class#ViewPager#0" expanded="false" />
+            <element signature="method#addFocusables#0;class#ViewPager#0" expanded="false" />
+            <element signature="e#116970#117040#0" expanded="false" />
+            <element signature="e#117391#117418#0" expanded="false" />
+            <element signature="docComment;method#addTouchables#0;class#ViewPager#0" expanded="false" />
+            <element signature="method#addTouchables#0;class#ViewPager#0" expanded="false" />
+            <element signature="e#118098#118164#0" expanded="false" />
+            <element signature="docComment;method#onRequestFocusInDescendants#0;class#ViewPager#0" expanded="false" />
+            <element signature="method#onRequestFocusInDescendants#0;class#ViewPager#0" expanded="false" />
+            <element signature="method#dispatchPopulateAccessibilityEvent#0;class#ViewPager#0" expanded="false" />
+            <element signature="method#generateLayoutParams#0;class#ViewPager#0" expanded="false" />
+            <element signature="method#checkLayoutParams#0;class#ViewPager#0" expanded="false" />
+            <element signature="method#generateLayoutParams#1;class#ViewPager#0" expanded="false" />
+            <element signature="class#MyAccessibilityDelegate#0;class#ViewPager#0" expanded="false" />
+            <element signature="method#onInitializeAccessibilityEvent#0;class#MyAccessibilityDelegate#0;class#ViewPager#0" expanded="false" />
+            <element signature="method#onInitializeAccessibilityNodeInfo#0;class#MyAccessibilityDelegate#0;class#ViewPager#0" expanded="false" />
+            <element signature="method#performAccessibilityAction#0;class#MyAccessibilityDelegate#0;class#ViewPager#0" expanded="false" />
+            <element signature="class#PagerObserver#0;class#ViewPager#0" expanded="false" />
+            <element signature="method#PagerObserver#0;class#PagerObserver#0;class#ViewPager#0" expanded="false" />
+            <element signature="docComment;class#LayoutParams#0;class#ViewPager#0" expanded="false" />
+            <element signature="class#LayoutParams#0;class#ViewPager#0" expanded="false" />
+            <element signature="docComment;field#isDecor#0;class#LayoutParams#0;class#ViewPager#0" expanded="false" />
+            <element signature="docComment;field#gravity#0;class#LayoutParams#0;class#ViewPager#0" expanded="false" />
+            <element signature="docComment;field#widthFactor#0;class#LayoutParams#0;class#ViewPager#0" expanded="false" />
+            <element signature="docComment;field#needsMeasure#0;class#LayoutParams#0;class#ViewPager#0" expanded="false" />
+            <element signature="docComment;field#position#0;class#LayoutParams#0;class#ViewPager#0" expanded="false" />
+            <element signature="docComment;field#childIndex#0;class#LayoutParams#0;class#ViewPager#0" expanded="false" />
+            <element signature="method#LayoutParams#1;class#LayoutParams#0;class#ViewPager#0" expanded="false" />
+            <element signature="class#ViewPositionComparator#0;class#ViewPager#0" expanded="false" />
+            <element signature="method#compare#0;class#ViewPositionComparator#0;class#ViewPager#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding>
+            <element signature="e#261#279#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="android-manifest">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/wzf/beijingnews/utils/VersionUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/wzf/beijingnews/utils/CacheUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="23" column="37" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/wzf/beijingnews/utils/DensityUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/guide_red_point.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/AndroidStudio/SDK/platforms/android-25/android.jar!/android/R.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="2538" column="32" selection-start-line="2538" selection-start-column="32" selection-end-line="2538" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/AndroidStudio/SDK/sources/android-20/android/view/View.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="15942" column="18" selection-start-line="15942" selection-start-column="18" selection-end-line="15942" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/guide_gree_point.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layouts/activities/layout/activity_guide.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="23" column="33" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://D:/AndroidStudio/SDK/sources/android-20/android/view/ViewTreeObserver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="503" column="17" selection-start-line="503" selection-start-column="17" selection-end-line="503" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/wzf/beijingnews/activities/GuideActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="107" column="21" selection-start-line="107" selection-start-column="21" selection-end-line="107" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="class#MyPagerAdapter#0;class#GuideActivity#0" expanded="false" />
+            <element signature="method#onClick#0;class#GuideActivity#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/wzf/beijingnews/activities/WelcomeActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="57" column="17" selection-start-line="57" selection-start-column="17" selection-end-line="57" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
