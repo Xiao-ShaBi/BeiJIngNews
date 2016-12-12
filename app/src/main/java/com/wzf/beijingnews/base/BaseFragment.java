@@ -4,6 +4,7 @@ import android.content.Context;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -21,14 +22,20 @@ public abstract class BaseFragment extends Fragment {
     @Nullable
     @Override
     public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
-        View view = View.inflate(mContext, getLayoutId(), null);
-        initView(view);
-        return view;
+        View view = null;
+        try {
+            view = View.inflate(mContext, getLayoutId(), null);
+        } catch (Exception e) {
+            e.printStackTrace();
+            Log.e("TAG", "-->" + e.getMessage());
+        }
+        return initView(view);
     }
 
     protected abstract int getLayoutId();
 
-    public void initView(View view) {
+    public View initView(View view) {
+        return view;
     }
 
     @Override
