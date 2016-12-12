@@ -17,6 +17,19 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
+
+    sourceSets {
+        main {
+            res.srcDirs =
+                    [
+                            'src/main/res/layouts/activities',
+                            'src/main/res/layouts/fragments',
+                            'src/main/res/layouts/views',
+                            'src/main/res/layouts',
+                            'src/main/res'
+                    ]
+        }
+    }
 }
 
 dependencies {
@@ -26,4 +39,6 @@ dependencies {
     })
     compile 'com.android.support:appcompat-v7:25.0.1'
     testCompile 'junit:junit:4.12'
+    compile 'com.jakewharton:butterknife:8.4.0'
+    annotationProcessor 'com.jakewharton:butterknife-compiler:8.4.0'
 }
