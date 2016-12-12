@@ -19,13 +19,5 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         ButterKnife.bind(this);
-
-
-//        SharedPreferences sp = getSharedPreferences("test", Context.MODE_PRIVATE);
-//        sp.edit().putString("123", "123").commit();
-
-//        SharedPreferences sp1 = getSharedPreferences("test", Context.MODE_PRIVATE);
-//        String string = sp1.getString("123", "321");
-//        test.setText(string);
     }
 }
