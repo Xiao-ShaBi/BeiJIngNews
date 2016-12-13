@@ -1,4 +1,4 @@
-package com.wzf.beijingnews.pager;
+package com.wzf.beijingnews.pager.homepagers;
 
 import android.content.Context;
 import android.graphics.Color;

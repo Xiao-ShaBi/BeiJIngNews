@@ -52,4 +52,12 @@ public class MainActivity extends SlidingFragmentActivity {
         //6.设置主页面占200dp
         slidingMenu.setBehindOffset(DensityUtil.dip2px(this, 200));
     }
+
+    public LeftFragment getLeftFragment() {
+        return (LeftFragment) getSupportFragmentManager().findFragmentByTag(LEFT_MENU);
+    }
+
+    public ContentFragment getContentFragment() {
+        return (ContentFragment) getSupportFragmentManager().findFragmentByTag(CONTENT_MAIN);
+    }
 }

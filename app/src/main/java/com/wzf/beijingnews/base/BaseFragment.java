@@ -32,11 +32,11 @@ public abstract class BaseFragment extends Fragment {
         return initView(view);
     }
 
-    protected abstract int getLayoutId();
-
     public View initView(View view) {
         return view;
     }
+
+    protected abstract int getLayoutId();
 
     @Override
     public void onActivityCreated(@Nullable Bundle savedInstanceState) {

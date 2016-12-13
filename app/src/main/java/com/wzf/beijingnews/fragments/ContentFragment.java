@@ -12,9 +12,9 @@ import com.wzf.beijingnews.R;
 import com.wzf.beijingnews.activities.MainActivity;
 import com.wzf.beijingnews.base.BaseFragment;
 import com.wzf.beijingnews.base.BasePager;
-import com.wzf.beijingnews.pager.HomeFragment;
-import com.wzf.beijingnews.pager.NewsFragment;
-import com.wzf.beijingnews.pager.SettingFragment;
+import com.wzf.beijingnews.pager.homepagers.HomeFragment;
+import com.wzf.beijingnews.pager.homepagers.NewsFragment;
+import com.wzf.beijingnews.pager.homepagers.SettingFragment;
 
 import java.util.ArrayList;
 
@@ -48,6 +48,10 @@ public class ContentFragment extends BaseFragment {
     public View initView(View view) {
         ButterKnife.bind(this, view);
         return super.initView(view);
+    }
+
+    public NewsFragment getNewsFragment() {
+        return (NewsFragment) pagers.get(1);
     }
 
     @Override

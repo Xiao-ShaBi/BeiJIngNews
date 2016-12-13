@@ -55,5 +55,4 @@ public class BasePager {
     public void initData() {
 
     }
-
 }
