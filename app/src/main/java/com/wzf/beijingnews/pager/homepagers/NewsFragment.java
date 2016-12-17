@@ -2,6 +2,7 @@ package com.wzf.beijingnews.pager.homepagers;
 
 import android.content.Context;
 import android.util.Log;
+import android.view.View;
 
 import com.google.gson.Gson;
 import com.wzf.beijingnews.activities.MainActivity;
@@ -45,13 +46,26 @@ public class NewsFragment extends BasePager {
         flContent.removeAllViews();
         //添加到帧布局
         flContent.addView(pager.rootView);
+
+        if (prePosition == 2) {
+            ibSwich.setVisibility(View.VISIBLE);
+            ibSwich.setOnClickListener(new View.OnClickListener() {
+                @Override
+                public void onClick(View v) {
+                    PhotosPager photosPager = (PhotosPager) pagers.get(2);
+                    photosPager.switchListGrid(ibSwich);
+
+                }
+            });
+        } else {
+            ibSwich.setVisibility(View.GONE);
+        }
     }
 
     @Override
     public void initData() {
 
         pagers = new ArrayList<>();
-
 
         /**
          * 联网请求
@@ -67,7 +81,7 @@ public class NewsFragment extends BasePager {
                 Log.e("TAG", "fir" + firstLinkNet.toString());
                 pagers.add(new DetailNewsPager(mContext, firstLinkNet.getData().get(0)));
                 pagers.add(new TopicPager(mContext));
-                pagers.add(new PhotosPager(mContext));
+                pagers.add(new PhotosPager(mContext, firstLinkNet.getData().get(2)));
                 pagers.add(new InteractPager(mContext));
 
                 ((MainActivity) mContext).getLeftFragment().setData(firstLinkNet.getData());

@@ -24,4 +24,9 @@ public class NoScollerViewPager extends ViewPager {
 //        Log.e("TAG", "这里开始移动");
         return true;
     }
+
+    @Override
+    public boolean onInterceptTouchEvent(MotionEvent ev) {
+        return false;
+    }
 }

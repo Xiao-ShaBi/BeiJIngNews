@@ -46,4 +46,11 @@ dependencies {
     compile 'com.google.code.gson:gson:2.2.4'
     compile project(':ViewPagerIndicator_library')
     compile 'com.github.bumptech.glide:glide:3.7.0'
+    compile project(':pullToRefresh_library')
+    compile 'com.android.support:recyclerview-v7:25.0.1'
+    compile project(path: ':PhotoView_library')
+    compile 'com.squareup.picasso:picasso:2.5.2'
+    compile files('libs/jcore-android_v1.0.0.jar')
+    compile files('libs/jpush-android_v3.0.0.jar')
+    compile project(':Image-Loader_library')
 }

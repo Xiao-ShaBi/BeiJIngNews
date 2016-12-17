@@ -4,12 +4,15 @@ import android.content.Context;
 import android.support.v4.view.PagerAdapter;
 import android.support.v4.view.ViewPager;
 import android.util.Log;
+import android.view.MotionEvent;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageButton;
 
+import com.jeremyfeinstein.slidingmenu.lib.SlidingMenu;
 import com.viewpagerindicator.TabPageIndicator;
 import com.wzf.beijingnews.R;
+import com.wzf.beijingnews.activities.MainActivity;
 import com.wzf.beijingnews.base.NewsPager;
 import com.wzf.beijingnews.bean.FirstLinkNet;
 
@@ -42,7 +45,39 @@ public class DetailNewsPager extends NewsPager {
     @Override
     public void initData() {
         viewPager.setAdapter(new MyViewPagerAdapter());
+        viewPager.setOnTouchListener(new View.OnTouchListener() {
+            @Override
+            public boolean onTouch(View v, MotionEvent event) {
+                return false;
+            }
+        });
         tabPageIndicator.setViewPager(viewPager);
+        //监听页面的改变
+        tabPageIndicator.setOnPageChangeListener(new ViewPager.OnPageChangeListener() {
+            @Override
+            public void onPageScrolled(int position, float positionOffset, int positionOffsetPixels) {
+
+            }
+
+            @Override
+            public void onPageSelected(int position) {
+                MainActivity mainActivity = (MainActivity) mContext;
+                if (position == 0) {
+                    //SlidingMenu可以侧滑
+                    mainActivity.getSlidingMenu().setTouchModeAbove(SlidingMenu.TOUCHMODE_FULLSCREEN);
+                } else {
+                    //不可以侧滑
+                    mainActivity.getSlidingMenu().setTouchModeAbove(SlidingMenu.TOUCHMODE_NONE);
+                }
+
+            }
+
+            @Override
+            public void onPageScrollStateChanged(int state) {
+            }
+        });
+
+
         ib_next.setOnClickListener(new MyOnClickListener());
     }
 

@@ -3,9 +3,14 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BeiJIngNews.iml" filepath="$PROJECT_DIR$/BeiJIngNews.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Image-Loader_library/Image-Loader_library.iml" filepath="$PROJECT_DIR$/Image-Loader_library/Image-Loader_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JPushExample/JPushExample.iml" filepath="$PROJECT_DIR$/JPushExample/JPushExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PhotoView_library/PhotoView_library.iml" filepath="$PROJECT_DIR$/PhotoView_library/PhotoView_library.iml" />
       <module fileurl="file://$PROJECT_DIR$/SlidingMenu_library/SlidingMenu_library.iml" filepath="$PROJECT_DIR$/SlidingMenu_library/SlidingMenu_library.iml" />
       <module fileurl="file://$PROJECT_DIR$/ViewPagerIndicator_library/ViewPagerIndicator_library.iml" filepath="$PROJECT_DIR$/ViewPagerIndicator_library/ViewPagerIndicator_library.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/photoView_sample/photoView_sample.iml" filepath="$PROJECT_DIR$/photoView_sample/photoView_sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pullToRefresh_library/pullToRefresh_library.iml" filepath="$PROJECT_DIR$/pullToRefresh_library/pullToRefresh_library.iml" />
     </modules>
   </component>
 </project>

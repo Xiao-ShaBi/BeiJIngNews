@@ -128,6 +128,10 @@ public class ContentFragment extends BaseFragment {
             //添加到容器中
             container.addView(rootView);
 
+            if (position == 1) {
+                basePager.ibMenu.setVisibility(View.VISIBLE);
+            }
+
             //调用initData
 //            basePager.initData();
             return rootView;

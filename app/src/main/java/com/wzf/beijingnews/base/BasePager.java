@@ -28,6 +28,14 @@ public class BasePager {
     public ImageButton ibMenu;
     @BindView(R.id.fl_content)
     public FrameLayout flContent;
+    @BindView(R.id.ib_back)
+    public ImageButton ibBack;
+    @BindView(R.id.icon_textsize)
+    public ImageButton iconTextsize;
+    @BindView(R.id.icon_share)
+    public ImageButton iconShare;
+    @BindView(R.id.ib_swich)
+    public ImageButton ibSwich;
 
     public BasePager(Context context) {
         mContext = context;

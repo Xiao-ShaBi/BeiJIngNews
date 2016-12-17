@@ -9,9 +9,14 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Image-Loader_library" />
+            <option value="$PROJECT_DIR$/JPushExample" />
+            <option value="$PROJECT_DIR$/PhotoView_library" />
             <option value="$PROJECT_DIR$/SlidingMenu_library" />
             <option value="$PROJECT_DIR$/ViewPagerIndicator_library" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/photoView_sample" />
+            <option value="$PROJECT_DIR$/pullToRefresh_library" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

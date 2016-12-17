@@ -4,8 +4,6 @@
       <root url="jar://D:/AndroidStudio/SDK/platforms/android-25/android.jar!/" />
     </CLASSES>
     <JAVADOC />
-    <SOURCES>
-      <root url="file://D:/AndroidStudio/SDK/sources/android-20" />
-    </SOURCES>
+    <SOURCES />
   </library>
 </component>
